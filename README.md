@@ -29,6 +29,10 @@ It provides a clear structure for understanding:
 
 ---
 
+- [x] Completed Task
+- [ ] Incomplete Task
+---
+
 ## Folder Structure
 
 ```bash
